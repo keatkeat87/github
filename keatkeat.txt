@@ -3,4 +3,6 @@ version 2
 version 3
 version 4
 version 5
-dev version
+version 6
+bug fix
+version 7
