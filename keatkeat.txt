@@ -1,7 +1,6 @@
 hello world
 version 2
-version 3
-version 4
-version 5
-version 6
-version 7
+continue version 3
+continue version 4
+continue version 5
+continue version 6
